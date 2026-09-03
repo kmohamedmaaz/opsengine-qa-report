@@ -10,7 +10,7 @@ Independent, human-quality validation of the OpsEngine marketing site and applic
 - **C4 — Deep-dive pass 2:** prompts CRUD, library round-trip, workers & missions, guardrail enforcement E2E, RAG grounding
 - **C5 — Pass 3:** not-run set — assign-task retest, delete paths, export, axe accessibility scan, resource scan
 
-**Totals:** 137 checks/cases designed · 128 executed · 98 pass (77%) · 17 fail · 13 observations · 9 deferred.
+**Totals:** 146 checks/cases designed · 137 executed · 106 pass (77%) · 15 fail · 16 observations · 9 deferred.
 
 **Defect register:** 1 Critical · 7 High · 4 Medium · 5 Low — each with repro, expected vs actual, and evidence.
 
